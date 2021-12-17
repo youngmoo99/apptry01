@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/alphaa</item>
+        <item>@drawable/alphab</item>
+        <item>@drawable/alphac</item>
+        <item>@drawable/alphad</item>
+        <item>@drawable/alphae</item>
+        <item>@drawable/alphaf</item>
+        <item>@drawable/alphag</item>
+
+    </integer-array>
+
+    <string-array name="title">
+        <item>축구 동아리</item>
+        <item>영화 동아리</item>
+        <item>볼링 동아리</item>
+        <item>봉사 동아리</item>
+        <item>토론 동아리</item>
+        <item>수영 동아리</item>
+        <item>익스트림 스포츠 동아리</item>
+
+    </string-array>
+
+    <string-array name="content">
+        <item>매주 일요일 축구</item>
+        <item>영화를 좋아하는 사람들</item>
+        <item>즐거운 볼링</item>
+        <item>봉사시간 채워요</item>
+        <item>다양한 토론주제를 경험해보아요</item>
+        <item>수영을 함께 배워보아요</item>
+        <item>스타일리쉬한 익스트림 스포츠 동아리!</item>
+
+    </string-array>
+</resources>
